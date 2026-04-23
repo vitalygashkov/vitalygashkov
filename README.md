@@ -2,7 +2,7 @@
 
 ### Products
 
-- **[Azot](https://azot.mov)** — Extensible video downloader (70+ stars)
+- **[Azot](https://azot.mov)** — Extensible video downloader (80+ stars)
 
 ### Everything Else
 
