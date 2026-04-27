@@ -6,8 +6,6 @@
 
 ### Everything Else
 
-- **[Tribute](https://github.com/vitalygashkov/tribute-tg)** — Unofficial [Tribute](https://tribute.tg/) SDK (and [Better Auth](https://www.better-auth.com/) integration) for Node.js and browsers
-- **[Telegram Better Auth](https://github.com/vitalygashkov/telegram-better-auth)** — Telegram integration for [Better Auth](https://www.better-auth.com/)
-- **[Excalib](https://github.com/vitalygashkov/excalib)** — An organizer for your [Excalidraw](https://excalidraw.com/) canvases
-- **[App Sneak](https://github.com/vitalygashkov/app-sneak)** — Get the latest updates of sanctioned Russian iOS apps on the [Telegram](https://telegram.org/) [channel](http://t.me/AppSneak)
+- **[Excalib](https://github.com/vitalygashkov/excalib)** — An organizer for your [Excalidraw](https://excalidraw.com/) canvases (a browser extension with Excalidraw UI integration)
+- **[App Sneak](https://github.com/vitalygashkov/app-sneak)** — A service for tracking the latest updates of sanctioned Russian iOS apps ([Telegram channel](http://t.me/AppSneak))
 - **[Znum](https://github.com/vitalygashkov/znum)** — CLI for downloading books from [Znanium](https://znanium.ru/)
