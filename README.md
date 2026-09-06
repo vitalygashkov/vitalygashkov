@@ -2,10 +2,11 @@
 
 ### Products
 
-- **[Azot](https://azot.mov)** — Extensible video downloader (80+ stars)
+- **[Azot](https://azot.mov)** — An app for downloading videos with extensions support (80+ stars)
 
 ### Everything Else
 
-- **[Excalib](https://github.com/vitalygashkov/excalib)** — An organizer for your [Excalidraw](https://excalidraw.com/) canvases (a browser extension with Excalidraw UI integration)
-- **[App Sneak](https://github.com/vitalygashkov/app-sneak)** — A service for tracking the latest updates of sanctioned Russian iOS apps ([Telegram channel](http://t.me/AppSneak))
+- **[Okova](https://npmx.dev/package/okova)** — A set of tools (browser extension, command‑line utility, and JS/TS library) for advanced DRM research
+- **[App Sneak](https://t.me/AppSneak)** — A service for tracking the latest updates of sanctioned Russian iOS apps
+- **[RuCens](https://rucens.vercel.app/)** - Registry of IP ranges and domains operating with restrictions in Russia
 - **[Znum](https://github.com/vitalygashkov/znum)** — CLI for downloading books from [Znanium](https://znanium.ru/)
