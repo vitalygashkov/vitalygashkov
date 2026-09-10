@@ -6,7 +6,7 @@
 
 ### Everything Else
 
-- **[Okova](https://npmx.dev/package/okova)** — A set of tools (browser extension, command‑line utility, and JS/TS library) for working with protected audio and video content
+- **[Okova](https://npmx.dev/package/okova)** — A set of tools (browser extension, CLI, and JS library) for working with protected content
 - **[App Sneak](https://t.me/AppSneak)** — A service for tracking the latest updates of sanctioned Russian iOS apps
 - **[RuCens](https://rucens.vercel.app/)** - Registry of IP ranges and domains operating with restrictions in Russia
 - **[Znum](https://github.com/vitalygashkov/znum)** — CLI for downloading books from [Znanium](https://znanium.ru/)
